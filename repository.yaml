@@ -9,3 +9,8 @@ plugins:
     version: "1.0.0"
     repository: "https://github.com/Multivit4min/VeniceRCON-metrics-plugin"
     commit: "adb7262e89738ff4fd970887fe88e72bb386e955"
+  - name: "PingEnforcer"
+    description: "Enforces player ping limits"
+    version: "1.0.0"
+    repository: "https://github.com/Maxinger15/VeniceRCON-PingEnforcer"
+    commit: "e149da94ed23e12bc5176ffdfdd64a151d4e0190"
