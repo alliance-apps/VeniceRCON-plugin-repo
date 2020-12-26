@@ -14,3 +14,8 @@ plugins:
     version: "1.0.0"
     repository: "https://github.com/Maxinger15/VeniceRCON-PingEnforcer"
     commit: "b9512610d01edf3ee73997f8e1ea76862f86c89c"
+  - name: "Spambot"
+    description: "Spams your players with annoying messages"
+    version: "1.0.0"
+    repository: "https://github.com/cat24max/VeniceRCON-Spambot"
+    commit: "544b203312e2f13a468c361258ee3d09f10d3f0c"
