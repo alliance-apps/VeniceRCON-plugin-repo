@@ -19,3 +19,8 @@ plugins:
     version: "1.0.0"
     repository: "https://github.com/cat24max/VeniceRCON-Spambot"
     commit: "544b203312e2f13a468c361258ee3d09f10d3f0c"
+  - name: "JoinLeaveMessages"
+    description: "Sends a message to all players when a player is joining/has left the server"
+    version: "1.0.0"
+    repository: "https://github.com/cat24max/VeniceRCON-JoinLeaveMessages"
+    commit: "391ca1dba297ac8a6da76b95a49f3f33ded2680e"
