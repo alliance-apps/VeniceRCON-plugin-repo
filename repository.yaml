@@ -1,9 +1,9 @@
 plugins:
   - name: "PingEnforcer"
     description: "Enforces player ping limits"
-    version: "1.0.0"
+    version: "1.0.1"
     repository: "https://github.com/Maxinger15/VeniceRCON-PingEnforcer"
-    commit: "b9512610d01edf3ee73997f8e1ea76862f86c89c"
+    commit: "47655239986ec1c64893a15ee2b75cdb0272630b"
   - name: "Spambot"
     description: "Spams your players with annoying messages"
     version: "1.0.1"
