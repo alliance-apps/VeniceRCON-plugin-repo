@@ -11,3 +11,6 @@ plugins:
   - username: "cat24max"
     repository: "VeniceRCON-SquadChanger"
     commit: "ecb07841a45a398c7516e023f66abfae97f9539d"
+  - username: "alliance-apps"
+    repository: "VeniceRCON-PersistentSettings"
+    commit: "e330507310e7553735ebc437cbd35ddd8568abe9"
